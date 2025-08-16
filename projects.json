@@ -1,0 +1,48 @@
+[
+    {
+        "title": "Project One",
+        "description": "Brief description of your amazing project.",
+        "image": "https://placehold.co/400x200",
+        "link": "https://example.com/project1",
+        "technologies": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ]
+    },
+    {
+        "title": "Pennsylvania Department of Education Project",
+        "description": "A collaborative web application built with Django to organize and display Pennsylvania Department of Education data using a clean and searchable interface.",
+        "image": "images/penn_school_project.png",
+        "link": "https://github.com/dearingJA/pennsylvania-department-of-education-website",
+        "technologies": [
+            "Django",
+            "Python",
+            "SQLite"
+        ]
+    },
+    {
+        "title": "Woddle (Wordle Clone)",
+        "description": "A Wordle clone inspired by the New York Times game. Guess the hidden five-letter word in six tries.",
+        "image": "images/woddle2.png",
+        "link": "https://github.com/dearinJA/wordle",
+        "technologies": [
+            "React",
+            "Vite",
+            "JavaScript",
+            "CSS",
+            "HTML"
+        ]
+    },
+    {
+        "title": "Personal Website",
+        "description": "A personal portfolio showcaseing projects and contact information.",
+        "image": "images/personal-website.png",
+        "link": "",
+        "technologies": [
+            "JavaScript",
+            "Tailwind CSS",
+            "HTML"
+        ]
+    }
+]
