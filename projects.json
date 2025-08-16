@@ -1,13 +1,16 @@
 [
     {
-        "title": "Project One",
-        "description": "Brief description of your amazing project.",
-        "image": "https://placehold.co/400x200",
-        "link": "https://example.com/project1",
+        "title": "Sports Discussion App",
+        "description": "A full-stack web app for sports fans to discuss daily AI-generated questions, featuring a Django/PostgreSQL backend, a React frontend, and deployed via Choreo for CI/CD and hosting.",
+        "image": "",
+        "link": "https://github.com/dearingJA/sports-discussion",
         "technologies": [
-            "HTML",
+            "Django",
+            "React",
+            "Python",
+            "JavaScript",
             "CSS",
-            "JavaScript"
+            "HTML"
         ]
     },
     {
@@ -24,8 +27,8 @@
     {
         "title": "Woddle (Wordle Clone)",
         "description": "A Wordle clone inspired by the New York Times game. Guess the hidden five-letter word in six tries.",
-        "image": "images/woddle2.png",
-        "link": "https://github.com/dearinJA/wordle",
+        "image": "images/woddle3.png",
+        "link": "https://github.com/dearingJA/wordle",
         "technologies": [
             "React",
             "Vite",
@@ -38,7 +41,7 @@
         "title": "Personal Website",
         "description": "A personal portfolio showcaseing projects and contact information.",
         "image": "images/personal-website.png",
-        "link": "",
+        "link": "https://github.com/dearingJA/personal-website",
         "technologies": [
             "JavaScript",
             "Tailwind CSS",
